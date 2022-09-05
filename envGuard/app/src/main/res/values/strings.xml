@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">环境卫士</string>
+    <string name="再按一次返回键退出">再按一次返回键退出</string>
+    <string name="信息">信息</string>
+    <string name="附近">附近</string>
+    <string name="like">收藏</string>
+    <string name="字体大小">字体大小</string>
+    <string name="调节字体大小">调节字体大小</string>
+    <string name="小">小</string>
+    <string name="大">大</string>
+    <string name="兑换">兑换</string>
+    <string name="环保资讯">环保资讯</string>
+    <string name="积分兑换">积分兑换</string>
+    <string name="购物车">购物车</string>
+    <string name="积分">积分</string>
+    <string name="bill" translatable="false">结算</string>
+    <string name="我的">我的</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.328" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/drawable/ic_baseline_insert_chart_24.xml" value="0.215" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.215" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1865" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/layout/a.xml" value="0.33" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/layout/content_login.xml" value="0.18489583333333334" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/layout/item_main_bin.xml" value="0.25" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/layout/list_item.xml" value="0.3619791666666667" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/menu/menu_top_appbar_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26" />
+        <entry key="..\:/study/envGuardAdmin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
